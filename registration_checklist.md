@@ -1,3 +1,5 @@
+
+
 # 📋 Registration Checklist
 
 ## 🔹 Project Information:
@@ -56,6 +58,11 @@
 - ✅ = Test passed  
 - ❌ = Test failed  
 
+## 📸 Screenshots of Registration Checklist
+
+![Step 1](images/1.png)  
+![Step 2](images/2.png)  
+![Step 3](images/3.png)  
  
 
  
