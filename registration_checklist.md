@@ -12,17 +12,17 @@
 
 | #  | Test Case Description                                         | Chrome | Firefox | Safari |
 |----|--------------------------------------------------------------|--------|--------|--------|
-| 1  | Ensure that the user can choose between "Register" and "Log in". | ✅ | ❌ | ✅ |
+| 1  | Ensure that the user can choose between "Register" and "Log in". | ✅ | ✅ | ✅ |
 | 2  | Click "Register" and verify the transition to the registration form. | ✅ | ✅ | ✅ |
 | 3  | Click "Log in" and verify the transition to the login form.  | ✅ | ✅ | ✅ |
-| 4  | Select no option and verify that the "Next" button remains inactive. | ✅ | ❌ | ✅ |
+| 4  | Select no option and verify that the "Next" button remains inactive. | ✅ | ✅ | ✅ |
 | 5  | Ensure that "Telegram", "Google", and email registration options are displayed. | ✅ | ✅ | ✅ |
 | 6  | Click the "Telegram" button and verify redirection to the respective service. | ✅ | ✅ | ✅ |
 | 7  | Click the "Google" button and verify redirection to the respective service. | ✅ | ✅ | ✅ |
-| 8  | Click "Next" without selecting a registration method and verify the error message. | ✅ | ❌ | ✅ |
+| 8  | Click "Next" without selecting a registration method and verify the error message. | ✅ | ✅ | ✅ |
 | 9  | Ensure that the Email field is present and contains the placeholder `example@gmail.com`. | ✅ | ✅ | ✅ |
 | 10 | Enter a valid email and verify the ability to proceed. | ✅ | ✅ | ✅ |
-| 11 | Enter an invalid email and check that the "Next" button remains disabled. | ✅ | ❌ | ✅ |
+| 11 | Enter an invalid email and check that the "Next" button remains disabled. | ❌ | ❌ | ❌ |
 | 12 | Leave the Email field empty, click "Next," and verify that the button remains inactive. | ✅ | ✅ | ✅ |
 | 13 | Click the "Log in" link and verify redirection to the login page. | ✅ | ✅ | ✅ |
 | 14 | Click "Next" after entering a valid email and verify the transition to the password screen. | ✅ | ✅ | ✅ |
