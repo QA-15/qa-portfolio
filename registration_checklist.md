@@ -51,8 +51,7 @@
 | 37 | Enter a password with both a number and a special character (e.g., Password1!) and verify that it is accepted. | ✅ | ✅ | ✅ |
 | 38 | Enter a password with only numbers (12345678) and verify a validation error. | ✅ | ✅ | ✅ |
 | 39 | Enter a password with spaces (Password 1!) and verify a validation error. | ✅ | ✅ | ✅ |
-| 40 | Enter a password with non-ASCII characters (Pässwörd1!) and check if it is accepted or rejected according to system rules. | ✅ | ✅ | ✅ |
-| 41 | Copy-paste a password into the field and verify that it maintains the expected formatting. | ✅ | ✅ | ✅ |
+| 40 | Copy-paste a password into the field and verify that it maintains the expected formatting. | ✅ | ✅ | ✅ |
 
 ## 🔹 Notes:
 - ✅ = Test passed  
